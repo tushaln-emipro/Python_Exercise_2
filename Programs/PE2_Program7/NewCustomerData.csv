@@ -1,0 +1,26 @@
+|Order No| Customer SKU Qty Price Address1 Address2 Zipcode City Country
+SO001 |Mohit Patel| STARCD173502 30 2 |Address 0002| |Address2 0001| 67806 Amritsar |United States of America|
+SO001 |Mohit Patel| STARCD173503 87 5 |Address 0002| |Address2 0001| 67806 Amritsar |United States of America|
+SO001 |Mohit Patel| STARCD173504 45 4 |Address 0002| |Address2 0001| 67806 Amritsar |United States of America|
+SO003 |Ketan Desai| MALTAF104512 94 1 |Address 0011| |Address2 0030| 67806 Sydney |Astronomical Unit|
+SO003 |Ketan Desai| MALTAF104513 97 2 |Address 0011| |Address2 0030| 67806 Sydney |Astronomical Unit|
+SO003 |Ketan Desai| STARCF182801 113 4 |Address 0011| |Address2 0030| 67806 Sydney |Astronomical Unit|
+SO003 |Ketan Desai| 7PLUSF173202 114 5 |Address 0011| |Address2 0030| 67806 Sydney |Astronomical Unit|
+SO003 |Ketan Desai| STARCE172901 136 4 |Address 0011| |Address2 0030| 67806 Sydney |Astronomical Unit|
+SO003 |Ketan Desai| STARCE172902 138 1 |Address 0011| |Address2 0030| 67806 Sydney |Astronomical Unit|
+SO004 |Ankit Batra| MALTAF104511 95 4 |Address 0005| |Address2 0012| 22589 Hamburg |Enterprise Solution|
+SO004 |Ankit Batra| ASTN173502 102 5 |Address 0005| |Address2 0012| 22589 Hamburg |Enterprise Solution|
+SO004 |Ankit Batra| MSCE183104 105 7 |Address 0005| |Address2 0012| 22589 Hamburg |Enterprise Solution|
+SO002 Rajesh 7PLUSF173201 90 6 |Address 0006| |Address2 0007| 67806 Dörrmoschel DE
+SO002 Rajesh 7PLUSF173201 93 3 |Address 0006| |Address2 0007| 67806 Dörrmoschel DE
+SO002 Rajesh ASTN173502 100 4 |Address 0006| |Address2 0007| 67806 Dörrmoschel DE
+SO002 Rajesh 7PLUSF174501 141 5 |Address 0006| |Address2 0007| 67806 Dörrmoschel DE
+SO002 Rajesh MALTAE150301 144 6 |Address 0006| |Address2 0007| 67806 Dörrmoschel DE
+SO002 Rajesh MALTAE150301 146 2 |Address 0006| |Address2 0007| 67806 Dörrmoschel DE
+SO006 |Mihir Tanna| ASTN173502 99 6 |Address 0008| |Address2 0016| 1720 |New York| |The United Kingdom|
+SO006 |Mihir Tanna| MSCE183104 104 7 |Address 0008| |Address2 0016| 1720 |New York| |The United Kingdom|
+SO006 |Mihir Tanna| MSCE183105 106 5 |Address 0008| |Address2 0016| 1720 |New York| |The United Kingdom|
+SO006 |Mihir Tanna| MSCE183109 108 6 |Address 0008| |Address2 0016| 1720 |New York| |The United Kingdom|
+SO006 |Mihir Tanna| STARCE172901 134 2 |Address 0008| |Address2 0016| 1720 |New York| |The United Kingdom|
+SO006 |Mihir Tanna| STARCE172902 137 7 |Address 0008| |Address2 0016| 1720 |New York| |The United Kingdom|
+SO010 |Ajit Kapoor| 7PLUSF173202 118 4 |Address 0029| |Address2 0035| 28777 Peru IT
